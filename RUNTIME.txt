@@ -1,0 +1,3 @@
+Windows native Python 3.12 standard library runtime:
+D:/CC_Codex_FeedBack/runtimes/cc005-csv-python312/python.exe
+Python runtime directory is included in PATH. CPU only.
